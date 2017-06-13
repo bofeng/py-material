@@ -1,0 +1,7 @@
+This article explains the new features in Python 2.7. Python 2.7 was released on July 3, 2010.
+
+Numeric handling has been improved in many ways, for both floating-point numbers and for the Decimal class. There are some useful additions to the standard library, such as a greatly enhanced unittest module, the argparse module for parsing command-line options, convenient OrderedDict and Counter classes in the collections module, and many other improvements.
+
+Python 2.7 is planned to be the last of the 2.x releases, so we worked on making it a good release for the long term. To help with porting to Python 3, several new features from the Python 3.x series have been included in 2.7.
+
+This article doesn’t attempt to provide a complete specification of the new features, but instead provides a convenient overview. For full details, you should refer to the documentation for Python 2.7 at https://docs.python.org. If you want to understand the rationale for the design and implementation, refer to the PEP for a particular new feature or the issue on https://bugs.python.org in which a change was discussed. Whenever possible, "What's New in Python" links to the bug/patch item for each change.
